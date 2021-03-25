@@ -1,1 +1,1 @@
-#Example app for learning laravel
+# Example app for learning laravel
